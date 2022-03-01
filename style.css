@@ -18,14 +18,14 @@ a  {
     text-decoration-color: grey;
 }
 .nav-bar-black {
-    display: inline-block;
+    display: flex;
     width: 100%;
     justify-content: center;
     align-items: center;
     background-color: black;
 }
 .nav-bar {
-    display: block;
+    display: flex;
     height: 60px;
     width: 100%;
     background-color: black;
